@@ -1,0 +1,17 @@
+button{
+    width: 200px;
+    height: 60px;
+    font-size: 30px;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    color: rgb(20, 20, 20);
+    border: 2px solid white;
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer;
+    
+  }
+  
+  button:hover {
+    background-color: #00471b;
+  }

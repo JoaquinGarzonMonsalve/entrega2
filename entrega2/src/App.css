@@ -1,0 +1,14 @@
+h3{
+  font-size: 40px;
+}
+.App{
+  
+  border: 3px solid rgb(34, 33, 33);
+  margin-right: 15px;
+}
+
+.productos{
+  display: flex;
+  flex-wrap:wrap;
+
+}
